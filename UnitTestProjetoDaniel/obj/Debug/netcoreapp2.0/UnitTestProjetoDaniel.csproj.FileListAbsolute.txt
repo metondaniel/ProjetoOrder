@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\bin\Debug\netcoreapp2.0\UnitTestProjetoDaniel.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\bin\Debug\netcoreapp2.0\UnitTestProjetoDaniel.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\bin\Debug\netcoreapp2.0\UnitTestProjetoDaniel.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\bin\Debug\netcoreapp2.0\UnitTestProjetoDaniel.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\bin\Debug\netcoreapp2.0\UnitTestProjetoDaniel.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\bin\Debug\netcoreapp2.0\ProjetoDanielMeton.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\bin\Debug\netcoreapp2.0\ProjetoDanielMeton.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\obj\Debug\netcoreapp2.0\UnitTestProjetoDaniel.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\obj\Debug\netcoreapp2.0\UnitTestProjetoDaniel.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\obj\Debug\netcoreapp2.0\UnitTestProjetoDaniel.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\obj\Debug\netcoreapp2.0\UnitTestProjetoDaniel.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\obj\Debug\netcoreapp2.0\UnitTestProjetoDaniel.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\obj\Debug\netcoreapp2.0\UnitTestProjetoDaniel.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\UnitTestProjetoDaniel\obj\Debug\netcoreapp2.0\UnitTestProjetoDaniel.pdb

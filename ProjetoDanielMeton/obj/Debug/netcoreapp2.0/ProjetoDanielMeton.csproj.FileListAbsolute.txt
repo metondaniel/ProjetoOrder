@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\ProjetoDanielMeton\bin\Debug\netcoreapp2.0\ProjetoDanielMeton.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\ProjetoDanielMeton\bin\Debug\netcoreapp2.0\ProjetoDanielMeton.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\ProjetoDanielMeton\bin\Debug\netcoreapp2.0\ProjetoDanielMeton.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\ProjetoDanielMeton\bin\Debug\netcoreapp2.0\ProjetoDanielMeton.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\ProjetoDanielMeton\bin\Debug\netcoreapp2.0\ProjetoDanielMeton.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\ProjetoDanielMeton\obj\Debug\netcoreapp2.0\ProjetoDanielMeton.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\ProjetoDanielMeton\obj\Debug\netcoreapp2.0\ProjetoDanielMeton.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\ProjetoDanielMeton\obj\Debug\netcoreapp2.0\ProjetoDanielMeton.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\ProjetoDanielMeton\obj\Debug\netcoreapp2.0\ProjetoDanielMeton.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\ProjetoDanielMeton\obj\Debug\netcoreapp2.0\ProjetoDanielMeton.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoDanielMeton\ProjetoDanielMeton\obj\Debug\netcoreapp2.0\ProjetoDanielMeton.pdb

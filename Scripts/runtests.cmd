@@ -1,0 +1,1 @@
+dotnet test ../UnitTestProjetoDaniel/UnitTestProjetoDaniel.csproj
